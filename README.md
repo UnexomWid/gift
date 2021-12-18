@@ -55,4 +55,4 @@ provided for convenience (`Module._gift_free_result`). Using `ccall` or `cwrap` 
 as they will lead to memory leaks.
 
 # License <a href="https://github.com/UnexomWid/gift/blob/master/LICENSE"><img align="right" src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License: MIT"></a>
-This project is licensed under the [MIT](https://github.com/UnexomWid/gift/blob/master/LICENSE) license.
+This implementation (i.e. the code) is licensed under the [MIT](https://github.com/UnexomWid/gift/blob/master/LICENSE) license.
